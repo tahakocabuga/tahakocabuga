@@ -1,2 +1,1 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/374126884721786880
-                            )](https://discord.com/users/374126884721786880)
+![My Favourite Distro](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
