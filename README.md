@@ -10,9 +10,7 @@ const taha = {
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: ["Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        databases: ["mongo"],
     },
     architecture: ["Single page applications"],
     currentFocus: "Python",
