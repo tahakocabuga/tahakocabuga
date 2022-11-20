@@ -13,7 +13,6 @@ const taha = {
         databases: ["mongo"],
     },
     architecture: ["Single page applications"],
-    currentFocus: "Python",
-    funFact: "btw I use Arch"
+    currentFocus: "none"
 };
 ```
