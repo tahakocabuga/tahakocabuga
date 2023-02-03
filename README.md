@@ -1,7 +1,6 @@
 ```javascript
 const taha = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python"],
+    code: ["Javascript"],
     askMeAbout: ["web dev", "tech", "app dev", "node.js"],
     technologies: {
         backEnd: {
