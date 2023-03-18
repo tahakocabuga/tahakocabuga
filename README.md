@@ -1,17 +1,14 @@
 ```javascript
 const taha = {
-    code: ["Javascript"],
-    askMeAbout: ["web dev", "tech", "app dev", "node.js"],
+    is: ["a fast learner", "a backend developer", "a student"]
+    code: ["Javascript", "Python"],
+    learning: ["Java", "C#", "and a lot of other stuff"] 
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        databases: ["mongo"],
-    },
-    architecture: ["Single page applications"],
-    currentFocus: "none"
+        mobileApp: "React Native",
+        databases: ["MongoDB"],
+    }
 };
 ```
